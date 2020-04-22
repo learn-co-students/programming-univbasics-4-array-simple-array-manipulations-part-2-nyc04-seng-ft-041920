@@ -52,7 +52,7 @@ that is equal to the provided integer.
 
 ## Conclusion
 
-You have now used the most common methods built into Ruby arrays! Everh `Array`
+You have now used the most common methods built into Ruby arrays! Every `Array`
 can use these methods, giving you the power to modify them in whatever way you
 need!
 
